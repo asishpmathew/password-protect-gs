@@ -18,3 +18,6 @@ The ideal resolution for this issue would involve Google Drive prompting for a p
 
 ![how-to](https://github.com/asishpmathew/password-protect-gs/blob/main/sample-encrypted.png)
 
+###Note
+
+Ensure you regularly remove Google version snapshots for improved security. Since it is not possible to delete the version history in Google, you need to make a copy of the document. The new document will not carry over the version history from the old one.
